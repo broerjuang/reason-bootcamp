@@ -1,0 +1,11 @@
+{
+  "name": "reason-bootcamp",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "repository": "https://github.com/broerjuang/reason-bootcamp.git",
+  "author": "broerjuang <juangwiantoro@gmail.com>",
+  "license": "MIT"
+}
